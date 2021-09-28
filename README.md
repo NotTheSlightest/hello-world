@@ -1,4 +1,7 @@
 # hello-world
 Gibberish
 
-C# at the moment... 
+Into C# at the moment... 
+
+Reminder for myself:
+https://guides.github.com/activities/hello-world/
